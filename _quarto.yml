@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Urban PM2.5 Methodology"
-  site-url: https://jcaceres-academic.github.io/urban-pm25-methodology/
-  description: "A reproducible methodological pipeline for Urban PM2.5 analysis"
+  title: "Urban PM2.5 Imbalance Evaluation"
+  site-url: https://jcaceres-academic.github.io/urban-pm25-imbalance-evaluation/
+  description: "A reproducible evaluation framework for urban PM2.5 classification under class imbalance and operational constraints"
   page-navigation: true
   search: false
 
@@ -19,7 +19,7 @@ website:
         target: "_self"
 
       - icon: file-earmark-text
-        text: "Article"
+        text: "Manuscript (PDF)"
         href: article.pdf
         target: "_blank"
 
@@ -35,7 +35,7 @@ website:
 
       - icon: github
         text: "GitHub"
-        href: https://github.com/jcaceres-academic/urban-pm25-methodology
+        href: https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation
         target: "_blank"
 
 format:
@@ -54,4 +54,3 @@ format:
     html-math-method: mathjax
 
 editor: visual
-
