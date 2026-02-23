@@ -34,3 +34,6 @@ Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ➡️ For the full project description, workflow, references, and educational context,  
 see the **project website** linked above.
+=======
+# urban-pm25-imbalance-evaluation
+Reproducible framework for evaluating urban PM2.5 classification under class imbalance and operational constraints.
