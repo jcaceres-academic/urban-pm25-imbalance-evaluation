@@ -11,7 +11,7 @@ format:
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Rendered with Quarto](https://img.shields.io/badge/Rendered_with-Quarto-4A90E2.svg)](https://quarto.org/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/jcaceres-academic/urban-pm25-imbalance-evaluation)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18734761-blue.svg)](https://doi.org/10.5281/zenodo.18734761)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18734761-blue.svg)](https://doi.org/10.5281/zenodo.18734761) 
 
 ---
 
